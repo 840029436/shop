@@ -2,11 +2,11 @@
 
 return [
 
-    'accessKeyId'       =>      'LTAI4GFS2ag65HgSQrGFoXSG',
-    'accessSecret'      =>      'IKequuEXOb1R6JVSPdpgIKMrzF2B16',
+    'accessKeyId'       =>      '自己的阿里云',
+    'accessSecret'      =>      '自己的阿里云',
     'host'              =>      'dysmsapi.aliyuncs.com',
     'regionId'          =>      'cn-hangzhou',
-    'TemplateCode'      =>      'SMS_190787180',
-    'SignName'          =>      '小竹商品网站'
+    'TemplateCode'      =>      '自己的阿里云',
+    'SignName'          =>      '名称'
 
 ];
